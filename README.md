@@ -1,2 +1,2 @@
 # Crypto-Mid-Cap-Systematic-Strategy
-A systematic crytpo trading strategy focusing on mid-cap coins
+Systematic crytpo trading strategies focusing on mid-cap coin
